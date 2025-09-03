@@ -30,7 +30,8 @@ int iterative_fib(int num)
 	}
 }
 
-void print_results() {
+void print_results() 
+{
 	printf("Recursive Fibonacci: %d\n", recursive_fib(20));
 	printf("Iterative Fibonacci: %d\n", iterative_fib(20));
 
