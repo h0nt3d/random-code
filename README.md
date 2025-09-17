@@ -1,2 +1,2 @@
-# some-random-code-lol
+random-code
 random code repo dump
